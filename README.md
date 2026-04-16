@@ -14,7 +14,7 @@ A Claude Code plugin that swaps Claude's voice for the calm, encouraging tone of
 Inside a Claude Code session:
 
 ```
-/plugin marketplace add <your-github-user>/bob_ross
+/plugin marketplace add MikeWelsh801/bob_ross
 /plugin install bob-ross@bob-ross-plugins
 ```
 
