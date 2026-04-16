@@ -1,0 +1,16 @@
+{
+  "name": "bob-ross-plugins",
+  "owner": {
+    "name": "Mike Welsh"
+  },
+  "plugins": [
+    {
+      "name": "bob-ross",
+      "source": "./",
+      "description": "Turns Claude Code into your calm, encouraging painting instructor. Happy little code, happy little accidents.",
+      "version": "1.0.0",
+      "keywords": ["output-style", "tone", "fun", "bob-ross"],
+      "category": "output-style"
+    }
+  ]
+}
